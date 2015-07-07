@@ -1,0 +1,15 @@
+Package: com.robottom.deleteallmessages8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron Thomas <robottomdev@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs//com.robottom.deleteallmessages8.deb
+Size: 4836
+MD5Sum: EF70668DD4FC2FF27269F4E9239A4911
+SHA1: 1FAD30185F006B85F58D2EF2DF3238C10BBE4E4E
+SHA256: 28FBB3E2AEBC510595F5557D5C12B4199EF37D1FD8FF735920F21F1AECC34596
+Section: Tweaks
+Description: Delete all messages in Messages.app with the press of a button!
+Author: Aaron Thomas <robottomdev@gmail.com>
+Depiction: http://robottom.github.io/Depic/DeleteAllMessages8/index.html
+Name: DeleteAllMessages8

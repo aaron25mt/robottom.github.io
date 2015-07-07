@@ -1,0 +1,9 @@
+Origin: RobotTom's Repo
+Label: RobotTom's Repo
+Suite: stable
+Version: 1.0
+Codename: RobotTom
+Architectures: iphoneos-arm
+Components: main
+Description: RobotTom's Repo
+MD5Sum: 
