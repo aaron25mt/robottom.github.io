@@ -5,9 +5,9 @@ Maintainer: Aaron Thomas <robottomdev@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: debs//com.robottom.deleteallmessages8.deb
 Size: 4836
-MD5Sum: EF70668DD4FC2FF27269F4E9239A4911
-SHA1: 1FAD30185F006B85F58D2EF2DF3238C10BBE4E4E
-SHA256: 28FBB3E2AEBC510595F5557D5C12B4199EF37D1FD8FF735920F21F1AECC34596
+MD5Sum: ef70668dd4fc2ff27269f4e9239a4911
+SHA1: 1fad30185f006b85f58d2ef2df3238c10bbe4e4e
+SHA256: 28fbb3e2aebc510595f5557d5c12b4199ef37d1fd8ff735920f21f1aecc34596
 Section: Tweaks
 Description: Delete all messages in Messages.app with the press of a button!
 Author: Aaron Thomas <robottomdev@gmail.com>
