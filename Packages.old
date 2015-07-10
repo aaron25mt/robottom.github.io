@@ -13,3 +13,19 @@ Description: Delete all messages in Messages.app with the press of a button!
 Author: Aaron Thomas <robottomdev@gmail.com>
 Depiction: http://robottom.github.io/Depic/DeleteAllMessages8/index.html
 Name: DeleteAllMessages8
+
+Package: com.robottom.customflash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Aaron Thomas <robottomdev@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs//com.robottom.customflash.deb
+Size: 3888
+MD5Sum: 5d4affd1a589bb83f5848a749e232ac5
+SHA1: 7a81f38bb9a057f36ff81095192211cd81d0dbb0
+SHA256: eae99d48ca99d60efa96d0e160bda7aebaaeac71b612021f1b5d819ba57da1f5
+Section: Tweaks
+Description: Removes screenshot flash and replaces with a notification!
+Author: Aaron Thomas <robottomdev@gmail.com>
+Depiction: http://robottom.github.io/Depic/CustomFlash/index.html
+Name: CustomFlash
